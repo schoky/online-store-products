@@ -7,14 +7,14 @@
 
 ## Deployment  
 
-- [Online-store](https://mkoroleva5-online-store.netlify.app/)
+- [Online-store](https://products-store-schoky.netlify.app/)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/mkoroleva5/online-store.git
+  git clone https://github.com/schoky/online-store-products.git
 ```
 
 Go to the project directory
