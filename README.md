@@ -26,7 +26,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm i & yarn i
+  npm i & yarn install
 ```
 
 Start the server
