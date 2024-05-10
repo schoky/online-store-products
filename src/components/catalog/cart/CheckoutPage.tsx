@@ -5,6 +5,7 @@ import classNames from 'classnames';
 import style from './CheckoutPage.module.css';
 import world from '../../../assets/images/world.png';
 import visa from '../../../assets/images/visa.png';
+import mir from '../../../assets/images/mir.png';
 import mastercard from '../../../assets/images/mastercard.png';
 import americanExpress from '../../../assets/images/american-express.png';
 import { history } from '../../../store/History';
@@ -83,6 +84,7 @@ export const CheckoutPage = () => {
   );
 
   const changePaymentSystem = (digit: string) => {
+    if (digit === '2') return mir;
     if (digit === '3') return americanExpress;
     if (digit === '4') return visa;
     if (digit === '5') return mastercard;
@@ -293,7 +295,7 @@ export const CheckoutPage = () => {
               </p>
             </div>
             <p className={style.additionalInfo}>
-              В течение 30 минут менеджер обработает Ваш заказ и свяжется с Вами!
+              В течение 2-3 дней менеджер обработает Ваш заказ и свяжется с Вами!
             </p>
           </div>
         )}
