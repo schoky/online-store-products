@@ -208,7 +208,7 @@ export const CheckoutPage = () => {
               </span>
             </div>
             <div className={style.creditCardDetails}>
-              <div className={style.creditCardTitle}>Данные кредитной карты</div>
+              <div className={style.creditCardTitle}>Данные банковской карты</div>
               <div className={style.creditCard}>
                 <div className={style.creditNumberWrapper}>
                   <div className={style.paymentSystem}>
