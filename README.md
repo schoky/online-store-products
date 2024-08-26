@@ -1,6 +1,6 @@
 # Online Store
 
-## Authors
+## Author
 
 - [@schoky](https://github.com/schoky)
 
