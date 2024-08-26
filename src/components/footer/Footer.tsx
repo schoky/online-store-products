@@ -15,15 +15,6 @@ export const Footer = () => {
             <img className={style.githubLogo} src={githubLogo} alt="GitHub" />
             <div className={style.githubName}>schoky</div>
           </a>
-          <a
-            className={style.githubLink}
-            href="https://github.com/debabin"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img className={style.githubLogo} src={githubLogo} alt="GitHub" />
-            <div className={style.githubName}>debabin</div>
-          </a>
         </div>
         <div className={style.footer}>
           <p>Online store 2024</p>
