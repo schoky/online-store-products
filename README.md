@@ -3,7 +3,6 @@
 ## Authors
 
 - [@schoky](https://github.com/schoky)
-- [@debabin](https://github.com/debabin)
 
 ## Deployment  
 
