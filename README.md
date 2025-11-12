@@ -6,7 +6,7 @@
 
 ## Deployment  
 
-- [Online-store](https://products-store-schoky.netlify.app/)
+- [Online-store](https://online-store-products.vercel.app/)
 
 ## Run Locally
 
